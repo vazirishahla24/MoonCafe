@@ -1,0 +1,307 @@
+{
+    "hot": [
+
+        {
+            "name": "Single Espresso",
+            "persianName": "اسپرسو تک",
+            "price": "100,000",
+            "tarkib": " محتویات 30 میلی‌لیتر میلی‌لیتر عصاره غلیظ و خالص قهوه",
+            "src": "ESPRESSO.webp"
+        },
+
+        {
+            "name": "Double Espresso",
+            "persianName": "اسپرسو دبل",
+            "price": "140,000",
+            "tarkib": " محتویات 60 میلی‌لیتر میلی‌لیتر عصاره غلیظ و خالص قهوه",
+            "src": "ESPRESSO.webp"
+
+        },
+
+        {
+            "name": "LATTE",
+            "persianName": "کافه لاته",
+            "price": "160,000",
+            "tarkib": "محتویات: شات اسپرسو، شیر با فوم کم",
+            "src": "LATTE.webp"
+
+        },
+
+        {
+            "name": "MOCHA",
+            "persianName": "کافه موکا",
+            "price": "180,000",
+            "tarkib": "محتویات: شات اسپرسو، سیروپ شکلات ، شیر با فوم کم",
+            "src": "MOCHA.webp"
+
+        }, {
+            "name": "AMERICANO",
+            "persianName": "آمریکانو",
+            "price": "120,000",
+            "tarkib": "محتویات: شات اسپرسو، آب داغ",
+            "src": "AMERICANO.webp"
+
+        }, {
+            "name": "Espresso Affogato",
+            "persianName": "اسپرسو آفوگاتو",
+            "price": "210,000",
+            "tarkib": "محتویات: اسپرسو، یک اسکوپ بستنی وانیلی",
+            "src": "ESPRESSO-AFFOGATO.webp"
+
+        }, {
+            "name": "CORTADO",
+            "persianName": "کورتادو",
+            "price": "150,000",
+            "tarkib": "محتویات: شات اسپرسو، شیر با فوم کم، طعم دهنده (به درخواست مشتری)",
+            "src": "CORTADO.webp"
+
+        }, {
+            "name": "Espresso Macchiato",
+            "persianName": "اسپرسو ماکیاتو",
+            "price": "160,000",
+            "tarkib": "محتویات: اسپرسو، شیر با فوم زیاد",
+            "src": "ESPRESSO-MACCHIATO.webp"
+
+
+        },
+        {
+            "name": "CARAMEL MACCHIATO",
+            "persianName": "کارامل ماکیاتو",
+            "price": "190,000",
+            "tarkib": "محتویات: شات اسپرسو، شیر با فوم زیاد، سیروپ کارامل",
+            "src": "CARAMEL-MACCHIATO.webp"
+
+        }, {
+            "name": "CAPPUCCINO",
+            "persianName": "کپوچینو",
+            "price": "160,000",
+            "tarkib": "محتویات: شات اسپرسو، شیر با فوم زیاد",
+            "src": "CAPPUCCINO.webp"
+
+        }, {
+            "name": "HOT CHOCOLATE",
+            "persianName": "شکلات داغ",
+            "price": "185,000",
+            "tarkib": "محتویات: شکلات چیپسی، پودر کاکائو، شیر گرم فوم کم",
+            "src": "HOT-CHOCOLATE.webp"
+
+        }, {
+            "name": "MASALA",
+            "persianName": "ماسالا",
+            "price": "140,000",
+            "tarkib": "محتویات: پودر ماسالا مخصوص کافه ماه (زنجبیل، دارچین، میخک، شکر و ...)، شیر با فوم کم",
+            "src": "MASALA.webp"
+
+        },
+        {
+            "name": "STEAMED MILK",
+            "persianName": "شیر گرم",
+            "price": "80,000",
+            "tarkib": "محتویات: شیر با فوم کم",
+            "src": "MILK.webp"
+
+        }
+    ],
+
+    "cold": [
+
+        {
+            "name": "ICED AMERICANO",
+            "persianName": "آیس امریکانو",
+            "price": "140,000",
+            "tarkib": "محتویات: شات اسپرسو، آب سرد تصفیه شده، یخ",
+            "src": "ICED-AMERICANO.webp"
+        },
+        {
+            "name": "ICED LATTE",
+            "persianName": "آیس لاته",
+            "price": "160,000",
+            "tarkib": "محتویات: شات اسپرسو، شیر سرد، یخ",
+            "src": "ICED-LATTE.webp"
+        },
+        {
+            "name": "ICED CARAMEL MACCHIATO",
+            "persianName": "آیس کارامل ماکیاتو",
+            "price": "190,000",
+            "tarkib": "محتویات: شات اسپرسو، سیروپ کارامل، شیر سرد، یخ",
+            "src": "ICED-CARAMEL-MACCHIATO.webp"
+        },
+
+
+        {
+            "name": "ICED MOCHA",
+            "persianName": "آیس موکا",
+            "price": "200,000",
+            "tarkib": "محتویات: شات اسپرسو، سیروپ شکلات، شیر سرد، یخ",
+            "src": "ICED-MOCHA.webp"
+        },
+        {
+            "name": "ICED CHOCOLATE",
+            "persianName": "شیر کاکائو سرد",
+            "price": "190,000",
+            "tarkib": "محتویات: شکلات، شیر، یخ",
+            "src": "ICED-CHOCOLATE.webp"
+        },
+        {
+            "name": "Black Iced Tea",
+            "persianName": "آیس تی سیاه",
+            "price": "190,000",
+            "tarkib": "محتویات: چای سیاه دم شده،سیروپ موهیتو، یخ",
+            "src": "Black-Iced-Tea.webp"
+        },
+        {
+            "name": "Green Iced Tea",
+            "persianName": "آیس تی سبز",
+            "price": "190,000",
+            "tarkib": "محتویات: چای سبز دم شده،سیروپ موهیتو، یخ",
+            "src": "Green-Iced-Tea.webp"
+        }
+    ],
+
+    "tea": [
+
+        {
+            "name": "BLACK TEA",
+            "persianName": "چای سیاه",
+            "price": "100,000",
+            "tarkib": "محتویات: چای سیاه کلاسیک، نبات",
+            "src": "BLACK-TEA.webp"
+        },
+        {
+            "name": "GREEN TEA",
+            "persianName": "چای سبز",
+            "price": "100,000",
+            "tarkib": "محتویات: چای سبز، نبات",
+            "src": "GREEN-TEA.webp"
+        },
+        {
+            "name": "Hibiscus Tea",
+            "persianName": "چای ترش",
+            "price": "150,000",
+            "tarkib": "محتویات:چای ترش ، نبات",
+            "src": "OXTONGUE.webp"
+        },
+        {
+            "name": "THYME TEA",
+            "persianName": "دمنوش آویشن",
+            "price": "150,000",
+            "tarkib": "محتویات:آویشن ، نبات",
+            "src": "CHAMOMILE-TEA.webp"
+        },
+        {
+            "name": "FRUIT TEA",
+            "persianName": "دمنوش میوه‌ای",
+            "price": "150,000",
+            "tarkib": "محتویات: دمنوش سیب و به، بهارنارنج،دارچین، نبات",
+            "src": "CHAMOMILE-TEA.webp"
+        },
+        {
+            "name": "CHAMOMILE TEA",
+            "persianName": "دمنوش بابونه",
+            "price": "150,000",
+            "tarkib": "محتویات: دمنوش بابونه، نبات",
+            "src": "CHAMOMILE-TEA.webp"
+        },
+        {
+            "name": "LEMON VERBENA TEA",
+            "persianName": "دمنوش به لیمو",
+            "price": "150,000",
+            "tarkib": "محتویات: دمنوش به لیمو، نبات",
+            "src": "CHAMOMILE-TEA.webp"
+        }
+    ],
+
+    "shake": [
+
+        {
+            "name": "VANILLA SHAKE",
+            "persianName": "شیک وانیل",
+            "price": "240,000",
+            "src": "vanilla.jpg"
+        },
+        {
+            "name": "CHOCOLATE SHAKE",
+            "persianName": " شیک شکلات",
+            "price": "260,000",
+            "src": "chocolate.jpg"
+        },
+        {
+            "name": "Double CHOCOLATE SHAKE",
+            "persianName": "شیک دبل چاکلت",
+            "price": "390,000",
+            "src": "DoubleChocolate.jpg"
+        },
+        {
+            "name": "MANGO SHAKE",
+            "persianName": " شیک انبه",
+            "price": "240,000",
+            "src": "mango.jpg"
+        },
+        {
+            "name": "BLACKBERRY SHAKE",
+            "persianName": " شیک شاه‌توت",
+            "price": "240,000",
+            "src": "berry.jpg"
+        },
+        {
+            "name": "BANANA MILK",
+            "persianName": "شیر موز",
+            "price": "1600,000",
+            "src": "BananaMilk.jpg"
+        },
+        {
+            "name": "BANANA MILKSHAKE",
+            "persianName": "شیر موز بستنی",
+            "price": "230,000",
+            "src": "BananaIceCream.jpg"
+        },
+        {
+            "name": "CANTALOUPE MILK",
+            "persianName": "شیر طالبی",
+            "price": "190,000",
+            "src": "cantaloupeMilk.jpg"
+        },
+        {
+            "name": "CANTALOUPE JUICE",
+            "persianName": "آب طالبی",
+            "price": "150,000",
+            "src": "cantaloupeJuice.jpg"
+        },
+        {
+            "name": "CARROOT JUICE",
+            "persianName": "آب هویج",
+            "price": "120,000",
+            "src": "carrotJuice.jpg"
+        },
+        {
+            "name": "CARROOT JUICE WITH ICE CREAM",
+            "persianName": "آب هویج بستنی",
+            "price": "190,000",
+            "src": "CarrotIceCream.jpg"
+        }
+    ],
+
+    "breakfast": [
+
+        {
+            "name": "FRIED EGGS",
+            "persianName": "نیمرو",
+            "price": "150,000",
+            "src": "FRIED-EGGS.jpg"
+        },
+        {
+            "name": "PERSIAN OMELETTE",
+            "persianName": "املت",
+            "price": "200,000",
+            "src": "PERSIAN-OMELETTE.jpg"
+        },
+        {
+            "name": "SAUSAGE & EGGS",
+            "persianName": "سوسیس تخم مرغ",
+            "price": "250,000",
+            "src": "SAUSAGE&EGGS.jpg"
+        }
+    ]
+
+
+}

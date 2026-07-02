@@ -1,0 +1,93 @@
+.goal {
+    background: url("../images/cafe/IMG_7095.PNG") no-repeat center center / cover;
+    height: calc(100vh - 80px);
+    position: relative;
+}
+
+.goal h1 {
+    color: white;
+    position: absolute;
+    font-size: 50px;
+    bottom: 30px;
+    right: 50%;
+    transform: translate(50%, 0);
+    /* text-shadow: 0 0 1000px 100px black; */
+    /* text-shadow: 0 0 20px black, 0 0 20px black; */
+    /* text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5), 0 6px 16px rgba(0, 0, 0, 0.35); */
+    /* -webkit-text-stroke: 1px rgba(0, 0, 0, .7); */
+    text-shadow: -2px -2px 4px #000, 2px -2px 4px #000, -2px 2px 4px #000, 2px -2px 4px #000, 0 8px 20px rgba(0, 0, 0, .8);
+}
+
+
+/* ********************************************************* */
+
+.categoryContainer {
+    margin: 50px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+}
+
+.categoryContainer a {
+    background-color: #d4e3ac8c;
+    color: #2b370f;
+    border: 1px solid #2b370f;
+    border-radius: 25px;
+    padding: 8px 20px;
+    margin: 5px;
+}
+
+.category {
+    width: 150px;
+}
+
+.categoryContainer a:hover {
+    background-color: #2b370f;
+    color: white;
+}
+
+.categoryContainer a::selection {
+    background-color: #2b370f;
+    color: white;
+}
+
+.category.active {
+    background-color: #2b370f;
+    color: white;
+}
+
+
+/* ************************************************** */
+
+.expertise {
+    grid-template-columns: repeat(5, 1fr);
+    gap: 10px;
+    direction: rtl;
+    display: none;
+}
+
+.breakfast {
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.expertise.show {
+    display: grid;
+}
+
+
+/* ************************************************** */
+
+.statistics {
+    justify-content: space-between;
+    position: relative;
+    height: 300px;
+}
+
+.address {
+    padding: 40px;
+    background-color: var(--medium-green);
+    color: white;
+}
+
+
+/* ************************************************8 */
