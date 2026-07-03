@@ -121,8 +121,7 @@ fetch("./data.json")
                 <div class="expertise-box d-flex align-center">
                     <img src="./images/menu/bf/${element.src}">
 
-                    <div class="expertise-box-title d-flex align-center ">
-                        <h4>${element.price}</h4>
+                    <div class="expertise-box-title">
                         <h3>${element.persianName}</h3>
                     </div>
 
